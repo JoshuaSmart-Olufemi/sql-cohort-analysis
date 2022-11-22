@@ -31,27 +31,6 @@ Here are two examples, translated to words:
 2016-06    | frequent          | zombie            | 12487
 => In June 2016, 12487 users did not show up anymore that were frequent users in May.
 
-this_month | last_month_status | this_month_status | transitions
-===========|===================|===================|============
-2016-07    | infrequent        |  frequent         | 12236
-2016-07    | new               |  frequent         | 12281
-2016-07    | power_user        |  frequent         | 2719
-2016-07    | reacquired        |  frequent         | 1300
-2016-07    | frequent          |  infrequent       | 10332
-2016-07    | new               |  infrequent       | 1372700
-2016-07    | power_user        |  infrequent       | 1399
-2016-07    | reacquired        |  infrequent       | 49516
-2016-07    | frequent          |  power_user       | 3184
-2016-07    | infrequent        |  power_user       | 2111
-2016-07    | new               |  power_user       | 2683
-2016-07    | reacquired        |  power_user       | 147
-2016-07    | frequent          |  zombie           | 5315
-2016-07    | infrequent        |  zombie           | 1073520
-2016-07    | power_user        |  zombie           | 946
-2016-06    | infrequent        |  frequent         | 8806
-2016-06    | new               |  frequent         | 8407
-2016-06    | power_user        |  frequent         | 2707
-[...]
 
 Context:
 --------
