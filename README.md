@@ -5,8 +5,10 @@ Standard cohorts:
 -----------------
  `infrequent`
    users had events on more than 0 and less than 4 days in the respective month
+   
  `frequent`
    users had events on more than 3 and less than 8 days in the respective month
+   
  `power_user`
    users had events on more than 7 days in the respective month
 
