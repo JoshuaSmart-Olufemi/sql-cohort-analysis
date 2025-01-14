@@ -41,7 +41,7 @@ Context:
 
  `collector_tstamp`: Time stamp for the event recorded by the collector
  
- `user_id`: Unique ID for a JustWatch site and app user (assume this to be an actual user, ignoring details about cross-device usage)
+ `user_id`: Unique ID for a company site and app user (assume this to be an actual user, ignoring details about cross-device usage)
 
 - Every event in events represents a user interaction
 
